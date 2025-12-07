@@ -1,0 +1,5 @@
+# Ignore model weights
+*.pth
+# (optional) ignore checkpoints or temp files
+*.ckpt
+
